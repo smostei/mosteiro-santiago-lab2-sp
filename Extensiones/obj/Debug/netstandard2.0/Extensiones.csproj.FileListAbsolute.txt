@@ -1,0 +1,9 @@
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\bin\Debug\netstandard2.0\Extensiones.deps.json
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\bin\Debug\netstandard2.0\Extensiones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\bin\Debug\netstandard2.0\Extensiones.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.csprojAssemblyReference.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.AssemblyInfoInputs.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.AssemblyInfo.cs
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.csproj.CoreCompileInputs.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Extensiones\obj\Debug\netstandard2.0\Extensiones.pdb

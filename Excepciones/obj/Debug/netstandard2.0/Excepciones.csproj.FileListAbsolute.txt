@@ -1,0 +1,9 @@
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\bin\Debug\netstandard2.0\Excepciones.deps.json
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\bin\Debug\netstandard2.0\Excepciones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\bin\Debug\netstandard2.0\Excepciones.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.csprojAssemblyReference.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfoInputs.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfo.cs
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.csproj.CoreCompileInputs.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Excepciones\obj\Debug\netstandard2.0\Excepciones.pdb

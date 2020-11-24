@@ -1,0 +1,13 @@
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Data.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Data.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Entidades.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Excepciones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Extensiones.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Excepciones.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Extensiones.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\bin\Debug\Entidades.pdb
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\obj\Debug\Data.csprojAssemblyReference.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\obj\Debug\Data.csproj.CopyComplete
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\obj\Debug\Data.dll
+E:\cias 3ds\MosteiroSantiagoSegundoParcial2D\Data\obj\Debug\Data.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZV63Xp0yyeSAGs4gcXBAZHTiZLwDPa3AuwXwE4frk6TXL1ybqbXYtLU7EbBaW2WtNloZIIX4Ur4f81Xr4avsVw==",
+  "success": true,
+  "projectFilePath": "E:\\cias 3ds\\MosteiroSantiagoSegundoParcial2D\\Archivos\\Archivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\augus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\augus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
